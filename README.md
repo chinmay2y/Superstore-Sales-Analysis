@@ -1,1 +1,1 @@
-# Superstore-Sales-Analysis
+The dashboard comprises two key parts: sales performance and sales forecasting. In the performance dashboard, I visualized metrics like total orders, sales, profit, and average shipping days. I broke down sales by region, payment mode, customer segment, and shipping modes. Key insights include identifying the West region as the highest contributor to sales and 'Standard Class' as the most frequently used shipping mode. Additionally, I analyzed monthly sales and profit trends to identify seasonal spikes and dips
